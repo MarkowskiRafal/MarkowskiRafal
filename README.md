@@ -1,5 +1,8 @@
 # Visit my webpage:
-<div align=”center”> http://rafalmarkowski.pl It's the place where you can get to know me better :) </div>
+
+<p align="center">
+http://rafalmarkowski.pl It's the place where you can get to know me better :)
+</p>
 
 ![Github](https://user-images.githubusercontent.com/46786100/115771083-ce417c80-a3ad-11eb-9574-9e63e6956591.jpg)
 
