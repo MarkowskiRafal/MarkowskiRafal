@@ -32,3 +32,6 @@ Languages:
 ## Projects
 
 #### Cinema booking system
+
+More information can be found at https://github.com/MarkowskiRafal/Cinema-java-spring
+
