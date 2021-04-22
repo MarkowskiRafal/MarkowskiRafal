@@ -1,6 +1,6 @@
-Visit my webpage at http://rafalmarkowski.pl where you can get to know me better
+Visit my webpage at http://rafalmarkowski.pl where you can get to know me better.
 
-My coding experience
+#My coding experience
 
 I started coding 2 years ago with C++ but I quickly found Java which was much more fun to learn. I started coding more intensely about a year ago because I knew it was what I 
 wanted to do for a living
