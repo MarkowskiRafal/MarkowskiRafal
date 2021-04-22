@@ -39,7 +39,4 @@ Avaiable at my github repository with readme file and source code: [Repository](
 
 I'm currently working on an tournament management application where users can submit their team to the application. Admin can accept teams and every player would know who will
 play against as they climb higher and higher. 
-
-##### Idea 
-
 In college, there was a local competition in computer games between several teams in which many students participated. Everything was done by email, so I thought that an interesting solution would be to create an application that would allow the organization of tournaments.
