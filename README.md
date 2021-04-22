@@ -2,8 +2,9 @@
 </br>
 <p align="center">
 http://rafalmarkowski.pl It's the place where you can get to know me better :)
-</p>
-</br>
+</p></br>
+
+
 ![Github](https://user-images.githubusercontent.com/46786100/115771083-ce417c80-a3ad-11eb-9574-9e63e6956591.jpg)
 
 ## My coding experience
