@@ -1,5 +1,4 @@
 # Visit my webpage:
-</br>
 <h3>
   <p align="center">
     http://rafalmarkowski.pl It's the place where you can get to know me better :) 
