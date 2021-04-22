@@ -31,11 +31,11 @@ Languages:
 
 ## Projects
 
-#### Cinema booking system
+#### Cinema booking system:
 
 Avaiable at my github repository with readme file and source code: [Repository](https://github.com/MarkowskiRafal/Cinema-booking-system)
 
-#### Tournament management 
+#### Tournament management:
 
 In college, there was a local competition in computer games between several teams in which many students participated. Everything was done by email, so I thought that an 
 interesting solution would be to create an application that would allow the organization of tournaments.
