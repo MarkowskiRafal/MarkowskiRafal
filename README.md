@@ -46,3 +46,7 @@ interesting solution would be to create an application that would allow the orga
 I'm currently working on an application where users can submit their teams to tournaments held in computer games. An admin could accept teams and set them up against each other 
 and update them with wins and losses up to the final round.
 
+## Contact me
+
+[My website](http://rafalmarkowski.pl)
+[My Linkedin](https://www.linkedin.com/in/markowski-rafal/)
