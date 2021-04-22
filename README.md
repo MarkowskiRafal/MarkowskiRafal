@@ -1,5 +1,5 @@
-# Visit my webpage at 
-http://rafalmarkowski.pl where you can get to know me better.
+# Visit my webpage:
+http://rafalmarkowski.pl It's the place where you can get to know me better :)
 
 ## My coding experience
 
