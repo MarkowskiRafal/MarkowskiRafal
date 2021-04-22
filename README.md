@@ -17,7 +17,7 @@ wanted to do for a living.
 - Git
 - Bootstrap
 
-Technologies that I'm familiar with, but still need to expand my knowledge:
+Technologies that I'm familiar with, but not that good:
 - HTML
 - CSS
 - MySQL
@@ -31,3 +31,4 @@ Languages:
 
 ## Projects
 
+### Cinema system
