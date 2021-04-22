@@ -48,5 +48,5 @@ and update them with wins and losses up to the final round.
 
 ## Contact me
 
-[My website](http://rafalmarkowski.pl)
-[My Linkedin](https://www.linkedin.com/in/markowski-rafal/)
+- [My website](http://rafalmarkowski.pl)
+- [My Linkedin](https://www.linkedin.com/in/markowski-rafal/)
