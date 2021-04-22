@@ -1,7 +1,7 @@
 # Visit my webpage:
 </br>
 <p align="center">
-### http://rafalmarkowski.pl It's the place where you can get to know me better :)
+ http://rafalmarkowski.pl <h2>It's the place where you can get to know me better :) </h2>
 </p></br>
 
 
