@@ -33,5 +33,5 @@ Languages:
 
 #### Cinema booking system
 
-Avaiable at my github repository with readme.md and source code: [Repository] (https://github.com/MarkowskiRafal/Cinema-java-spring)
+Avaiable at my github repository with readme.md and source code: [Repository](https://cranky-archimedes-dd5cf7.netlify.app/)
 
