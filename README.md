@@ -36,16 +36,16 @@ Languages:
 
 ## Projects
 
-#### Cinema booking system:
+#### Cinema booking system: [Repository](https://github.com/MarkowskiRafal/Cinema-booking-system)
 
-Available at my github repository with readme file and source code: [Repository](https://github.com/MarkowskiRafal/Cinema-booking-system)
+Available at my github repository with readme file and source code.
 
-#### Tournament management:
+#### Tournament management: [Repository](https://github.com/MarkowskiRafal/Tournament-management)
 
 In college, there was a local competition in computer games between several teams in which many students participated. Everything was done by email, so I thought that an 
 interesting solution would be to create an application that would allow the organization of tournaments.
 I'm currently working on the application where users can submit their teams to tournaments held in computer games. An admin could accept teams and set them up against each other 
-and update them with wins and losses up to the final rounds. [Repository](https://github.com/MarkowskiRafal/Tournament-management)
+and update them with wins and losses up to the final rounds. 
 
 ## Contact me
 
