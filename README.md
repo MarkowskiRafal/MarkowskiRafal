@@ -38,9 +38,9 @@ Languages:
 
 #### Cinema booking system: [Repository](https://github.com/MarkowskiRafal/Cinema-booking-system)
 
-Available at my github repository with readme file and source code.  
-
-Java | Spring Boot | Hibernate 
+This application is written in Java using Spring Bot, Hibernate and Thymeleaf that is used to book seats in a cinema. Users can browse the repertoire, 
+select a day and time, and then reserve seats. The seats are divided into already reserved and free seats. All data is stored in the database. Users can register and log into 
+the system. Administrator is able to do CRUD operations on movies and screening times.
 
 #### Tournament management: [Repository](https://github.com/MarkowskiRafal/Tournament-management)
 
