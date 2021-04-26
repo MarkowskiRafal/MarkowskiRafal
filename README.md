@@ -38,7 +38,8 @@ Languages:
 
 #### Cinema booking system: [Repository](https://github.com/MarkowskiRafal/Cinema-booking-system)
 
-Available at my github repository with readme file and source code.
+Available at my github repository with readme file and source code.  
+
 Java | Spring Boot | Hibernate 
 
 #### Tournament management: [Repository](https://github.com/MarkowskiRafal/Tournament-management)
