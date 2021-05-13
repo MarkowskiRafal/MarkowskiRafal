@@ -38,9 +38,10 @@ Languages:
 
 #### Cinema booking system: | [Repository](https://github.com/MarkowskiRafal/Cinema-booking-system) | Run here: https://kinoteatr-app.herokuapp.com
 
-This application is written in Java using Spring Bot, Hibernate and Thymeleaf that is used to book seats in a cinema. Users can browse the repertoire, 
-select a day and time, and then reserve seats. The seats are divided into already reserved and free seats. All data is stored in the database. Users can register and log into 
-the system. Administrator is able to do CRUD operations on movies and screening times.
+Cinema booking system is written in Java using Spring Boot, Hibernate and Thymeleaf. This project aimed to broaden the knowledge of programming and the use of my knowledge in 
+practice. The main goal was to create a modern application that is functional and fault-tolerant. This application is used to book seats in a cinema. Users can browse the 
+repertoire, select a day and time, and then reserve seats. The seats are divided into already reserved and unreserved. All data is stored in the database. Users can register and 
+log into the system. Administrator is able to do CRUD operations on movies and screening times. The app was tested on mobile devices.
 
 #### Tournament management: [Repository](https://github.com/MarkowskiRafal/Tournament-management)
 
