@@ -5,6 +5,11 @@
   </p>
 </h3></br>
 
+## Contact me
+
+- [My website](http://rafalmarkowski.pl)
+- [My Linkedin](https://www.linkedin.com/in/markowski-rafal/)
+- rmarkowski97@gmail.com
 
 ![Github](https://user-images.githubusercontent.com/46786100/115771083-ce417c80-a3ad-11eb-9574-9e63e6956591.jpg)
 
@@ -48,9 +53,3 @@ log into the system. Administrator is able to do CRUD operations on movies and s
 In college, there was a local computer game competition between several teams with many students participating. Everything was done via email, so I thought it would be 
 interesting to create an app that would allow people to organize tournaments. I am currently working on such an application, in which users can submit their teams to tournaments 
 organized in computer games. An administrator could accept teams and set them against each other and update them with wins and losses until the final rounds.
-
-## Contact me
-
-- [My website](http://rafalmarkowski.pl)
-- [My Linkedin](https://www.linkedin.com/in/markowski-rafal/)
-- rmarkowski97@gmail.com
