@@ -53,3 +53,4 @@ organized in computer games. An administrator could accept teams and set them ag
 
 - [My website](http://rafalmarkowski.pl)
 - [My Linkedin](https://www.linkedin.com/in/markowski-rafal/)
+- rmarkowski97@gmail.com
