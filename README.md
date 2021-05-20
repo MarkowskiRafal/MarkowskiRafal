@@ -50,6 +50,7 @@ log into the system. Administrator is able to do CRUD operations on movies and s
 
 #### Tournament management: [Repository](https://github.com/MarkowskiRafal/Tournament-management)
 
-In college, there was a local computer game competition between several teams with many students participating. Everything was done via email, so I thought it would be 
-interesting to create an app that would allow people to organize tournaments. I am currently working on such an application, in which users can submit their teams to tournaments 
-organized in computer games. An administrator could accept teams and set them against each other and update them with wins and losses until the final rounds.
+In college, there was a local computer game competition between several teams that many students participated in. Everything was done via email, so I thought it would be 
+interesting to create an application that would allow organizing such tournaments. The administrator would additionally have more permissions to this application, which he could 
+manage. He also doesn't have to constantly send many emails to everyone. He can add informations directly from the application which are visible to everyone. This application 
+allowed me to test and consolidate my programming skills.
