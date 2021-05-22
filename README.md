@@ -48,7 +48,7 @@ practice. The main goal was to create a modern application that is functional an
 repertoire, select a day and time, and then reserve seats. The seats are divided into already reserved and unreserved. All data is stored in the database. Users can register and 
 log into the system. Administrator is able to do CRUD operations on movies and screening times. The app was tested on mobile devices.
 
-#### Tournament management: [Repository](https://github.com/MarkowskiRafal/Tournament-management) Run here: https://tournamentmng.herokuapp.com
+#### Tournament management: [Repository](https://github.com/MarkowskiRafal/Tournament-management) | Run here: https://tournamentmng.herokuapp.com
 
 In college, there was a local computer game competition between several teams that many students participated in. Everything was done via email, so I thought it would be 
 interesting to create an application that would allow organizing such tournaments. The administrator would additionally have more permissions to this application, which he could 
