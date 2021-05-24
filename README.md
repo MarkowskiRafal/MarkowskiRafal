@@ -20,8 +20,6 @@ wanted to do for a living. And so, getting to know the syntax of java more and m
 programs using the Spring Boot Framework and so more. I believe that systematic learning and determination is the key to success, so I don't stop learning more and more about 
 programming.
 
-My Github
-
 ## Technologies
 
 - Java
