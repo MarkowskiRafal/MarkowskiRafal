@@ -53,5 +53,6 @@ log into the system. Administrator is able to do CRUD operations on movies and s
 #### Tournament management: [Repository](https://github.com/MarkowskiRafal/Tournament-management) | Run here: https://tournamentmng.herokuapp.com
 
 In college, there was a local computer game competition between several teams that many students participated in. Everything was done via email, so I thought it would be 
-interesting to create an application that would allow organizing such tournaments. The administrator has additionally more permissions to this application, which he can 
-manage. Users can submit their teams through the app where each team's score is recorded. He also doesn't have to constantly send many emails to everyone. He can add informations directly from the application which are visible to everyone. This application allowed me to test and consolidate my programming skills.
+interesting to create an application that would allow organizing such tournaments. The administrator has additionally more permissions to this application which he can manage. 
+Users can submit their teams through the application where each team's score is recorded. He also doesn't have to constantly send many emails to everyone. He can add 
+informations directly from the application which are visible to everyone. This application allowed me to test and consolidate my programming skills.
