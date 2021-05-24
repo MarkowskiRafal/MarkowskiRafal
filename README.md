@@ -16,7 +16,11 @@
 ## My coding experience
 
 I started coding 2 years ago with C++ but I quickly found Java which was much more fun to learn. I started coding more intensely about a year ago because I knew it was what I 
-wanted to do for a living.
+wanted to do for a living. And so, getting to know the syntax of java more and more, this language convinced me to itself and so it remained until today, where I write Java 
+programs using the Spring Boot Framework and so more. I believe that systematic learning and determination is the key to success, so I don't stop learning more and more about 
+programming.
+
+My Github
 
 ## Technologies
 
