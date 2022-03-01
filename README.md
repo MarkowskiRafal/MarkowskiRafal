@@ -7,7 +7,7 @@
 
 ## Contact me
 
-- [My website](http://rafalmarkowski.pl)
+- <h4>[My website]</h4>(http://rafalmarkowski.pl)
 - [My Linkedin](https://www.linkedin.com/in/markowski-rafal/)
 - rmarkowski97@gmail.com
 
