@@ -7,9 +7,13 @@
 
 ## My coding experience
 
-I started coding two and a half years ago with C++ but I quickly found Java which was much more fun to learn. I started coding more intensely about a year and a half ago because I knew it was what I 
-wanted to do for a living. And so, getting to know the syntax of java more and more, this language convinced me to itself and so it remained until today, which allowed me to find my first job as a Junior Java Developer. I believe that systematic learning and determination is the key to success, so I don't stop learning more and more about 
-programming.
+
+
+
+From an early age I was fascinated by technology, science and computers, I was curious about how they work from the programming side. In school, I created simple console applications written in C++ for calculating various things useful in my math classes, because while studying I wanted my own calculator for fun and learning purposes. Later in college I switched to Jav, and over time my passion for programming has only deepened. I currently work as a Java programmer, which is not only a job for me, but also a way to continue my hobby and passion.
+
+After working hours, I don't stop exploring the world of Java. I read about the latest trends, experiment with different technologies and develop my programming skills. For me, the key element of success is systematic learning and determination. Constantly expanding my knowledge and exploring new areas of programming make every day a new challenge and learning opportunity.
+
 
 ## Technologies
 
