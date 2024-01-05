@@ -1,13 +1,5 @@
-# Visit my webpage:
-<h3>
-  <p align="center">
-    http://rafalmarkowski.pl It's the place where you can get to know me better :) 
-  </p>
-</h3></br>
-
 ## Contact me
 
-- [My website](http://rafalmarkowski.pl)
 - [My Linkedin](https://www.linkedin.com/in/markowski-rafal/)
 - rmarkowski97@gmail.com
 
