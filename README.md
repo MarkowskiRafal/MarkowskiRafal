@@ -27,7 +27,7 @@ After working hours I don't stop exploring the world of Java. I read about the l
 - MySQL
 - Thymeleaf
 - Bootstrap
-
+-               
 - Jira
 - Jenkins
 - Kibana
