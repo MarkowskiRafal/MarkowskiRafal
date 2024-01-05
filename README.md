@@ -7,38 +7,40 @@
 
 ## My coding experience
 
+From an early age I was fascinated by technology, science and computers, I was curious about how they work from the programming side. In school, I created simple console applications written in C++ for calculating various things useful in my math classes, because while studying I wanted my own calculator for fun and learning purposes. Later in college, I switched to Java, where I created two larger and more serious projects - a movie theater application and a tournament management application. 
+I have been working as a Java developer since August 2021, which is a continuation of my hobby and passion and I am genuinely enthusiastic about learning, and I find joy and satisfaction in the process of development.
 
-
-
-From an early age I was fascinated by technology, science and computers, I was curious about how they work from the programming side. In school, I created simple console applications written in C++ for calculating various things useful in my math classes, because while studying I wanted my own calculator for fun and learning purposes. Later in college I switched to Jav, and over time my passion for programming has only deepened. I currently work as a Java programmer, which is not only a job for me, but also a way to continue my hobby and passion.
-
-After working hours, I don't stop exploring the world of Java. I read about the latest trends, experiment with different technologies and develop my programming skills. For me, the key element of success is systematic learning and determination. Constantly expanding my knowledge and exploring new areas of programming make every day a new challenge and learning opportunity.
+After working hours I don't stop exploring the world of Java. I read about the latest trends, study about new technologies and develop my programming skills by solving various tasks from the internet and creating new projects. I believe that systematic learning and solving different tasks is an effective way to develop programming skills and exercise the brain.
 
 
 ## Technologies
 
 - Java
-- Spring Boot Framework
+- Spring Boot
 - Hibernate
 - Git
-- Gradle & Maven
+- Gradle
+- Maven
+- Junit
+- Mockito
 - PostgreSQL
 - MySQL
 - Thymeleaf
-- Git
 - Bootstrap
 
-Technologies that I'm familiar with, but not that good:
-- HTML
-- CSS
-- MySQL
+- Jira
+- Jenkins
+- Kibana
+- Elasticsearch
+- Docker
+- Kafka
 
 
 Languages:
 - Polish: native
 - English: communicative
 
-## Projects
+## Projects during college:
 
 #### Cinema booking system: | [Repository](https://github.com/MarkowskiRafal/Cinema-booking-system) | Run here: https://kinoteatr-app.herokuapp.com
 
@@ -49,7 +51,7 @@ log into the system. Administrator is able to do CRUD operations on movies and s
 
 #### Tournament management: [Repository](https://github.com/MarkowskiRafal/Tournament-management) | Run here: https://tournamentmng.herokuapp.com
 
-In college, there was a local computer game competition between several teams that many students participated in. Everything was done via email, so I thought it would be 
+There was a local computer game competition between several teams that many students participated in. Everything was done via email, so I thought it would be 
 interesting to create an application that would allow organizing such tournaments. Users can submit their teams through the application where each team's score is recorded. The 
 administrator has additionally more permissions to this application which he can manage. He also doesn't have to constantly send many emails to everyone. He can add informations 
 directly from the application which are visible to everyone. This application allowed me to test and consolidate my programming skills.
