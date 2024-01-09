@@ -15,30 +15,18 @@ After working hours I don't stop exploring the world of Java. I read about the l
 
 ## Technologies
 
-- Java
-- Spring Boot
-- Hibernate
-- Git
-- Gradle
-- Maven
-- Junit
-- Mockito
-- PostgreSQL
-- MySQL
-- Thymeleaf
-- Bootstrap
--               
-- Jira
-- Jenkins
-- Kibana
-- Elasticsearch
-- Docker
-- Kafka
-
+| Backend       |  Database        | Testing         | DevOps          | Other            |
+| ------------- |   -------------- | --------------- | --------------- | ---------------- |
+| Java          |  PostgreSQL      | Junit           | Git             | Jira             |
+| Spring Boot   |  MySQL           | Mockito         | Gradle          | Jenkins          |
+| Hibernate     |                  |                 | Maven           | Kibana           |
+|               |                  |                 | Docker          | Elasticsearch    |
+|               |                  |                 | Kafka           |                  |
 
 Languages:
 - Polish: native
 - English: communicative
+
 
 ## Projects:
 
