@@ -1,3 +1,10 @@
+# Table of Contents: 
+* [Contact me](#contact-me)
+* [My coding experience](#my-coding-experience)
+* [Technologies](#technologies)
+* [Projects after working hours](#projects-after-working-hours)
+* [Projects during college](#projects-after-working-hours)
+  <br/><br/>
 ## Contact me
 
 - [My Linkedin](https://www.linkedin.com/in/markowski-rafal/)
@@ -15,20 +22,25 @@ After working hours I don't stop exploring the world of Java. I read about the l
 
 ## Technologies
 
-| Backend       |  Database        | Testing         | DevOps          | Other            |
-| ------------- |   -------------- | --------------- | --------------- | ---------------- |
-| Java          |  PostgreSQL      | Junit           | Git             | Jira             |
-| Spring Boot   |  MySQL           | Mockito         | Gradle          | Jenkins          |
-| Hibernate     |                  |                 | Maven           | Kibana           |
-|               |                  |                 | Docker          | Elasticsearch    |
-|               |                  |                 | Kafka           |                  |
+| Backend & Database  | DevOps & Tools       |
+| ------------------- |   ------------------ |
+| Java                | Git                  | 
+| Spring Boot         | Gradle               | 
+| Hibernate           | Maven                |     
+| Junit               | Jira                 |   
+| Mockito             | Confluence           |
+| PostgreSQL          | Jenkins              |
+| MySQL               | Docker               |
+| Log4j2              | Elasticsearch        |  
+|                     | Kibana               |
+|                     | Kafka                |
 
 Languages:
 - Polish: native
 - English: communicative
 
 
-## Projects:
+## Projects after working hours:
 
 #### Car Renting Comparator: | [Repository](https://github.com/MarkowskiRafal/car-renting-comparator-app)
 
