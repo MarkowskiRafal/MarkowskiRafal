@@ -1,3 +1,6 @@
+![Github](https://user-images.githubusercontent.com/46786100/115771083-ce417c80-a3ad-11eb-9574-9e63e6956591.jpg)
+<br/><br/>
+
 # Table of Contents: 
 * [Contact me](#contact-me)
 * [My coding experience](#my-coding-experience)
@@ -10,7 +13,6 @@
 - [My Linkedin](https://www.linkedin.com/in/markowski-rafal/)
 - rmarkowski97@gmail.com
 
-![Github](https://user-images.githubusercontent.com/46786100/115771083-ce417c80-a3ad-11eb-9574-9e63e6956591.jpg)
 
 ## My coding experience
 
