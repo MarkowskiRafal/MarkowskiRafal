@@ -17,7 +17,7 @@
 ## My coding experience
 
 From an early age I was fascinated by technology, science and computers, I was curious about how they work from the programming side. In school, I created simple console applications written in C++ for calculating various things useful in my math classes, because while studying I wanted my own calculator for fun and learning purposes. Later in college, I switched to Java, where I created two larger and more serious projects - a movie theater application and a tournament management application.  
-I have been working as a Java developer since August 2021, which is a continuation of my hobby and passion and I am genuinely enthusiastic about learning, and I find joy and satisfaction in the process of development.
+I work as a Java developer since August 2021, which is a continuation of my hobby and passion and I am genuinely enthusiastic about learning, and I find joy and satisfaction in the process of development.
 
 After working hours I don't stop exploring the world of Java. I read about the latest trends, study about new technologies and develop my programming skills by solving various tasks from the internet and creating new projects. I believe that systematic learning and solving different tasks is an effective way to develop programming skills and exercise the brain.
 
